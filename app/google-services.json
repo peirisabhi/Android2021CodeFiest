@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "736109360897",
+    "project_id": "androidcodefiest2021-27e07",
+    "storage_bucket": "androidcodefiest2021-27e07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736109360897:android:5d6ddd4e4ec82521a08d00",
+        "android_client_info": {
+          "package_name": "com.zonebecreations.a2021codefiest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736109360897-a6k4b5ju08ubseqsglp2t0bmopeh9b4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuroYP4hEWy6S_XW0QOhEvBWcSQw6RQDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736109360897-a6k4b5ju08ubseqsglp2t0bmopeh9b4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736109360897:android:b5ac193309833bf6a08d00",
+        "android_client_info": {
+          "package_name": "com.zonebecreations.android2021codefiest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736109360897-a6k4b5ju08ubseqsglp2t0bmopeh9b4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuroYP4hEWy6S_XW0QOhEvBWcSQw6RQDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736109360897-a6k4b5ju08ubseqsglp2t0bmopeh9b4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736109360897:android:7a21907659c5352aa08d00",
+        "android_client_info": {
+          "package_name": "com.zonebecreations.android2021codefiestrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736109360897-2uishrokb1gmtv9161htidaf3btqm8vo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zonebecreations.android2021codefiestrider",
+            "certificate_hash": "2c51a0f9cf2b7ed8bd578705a4cdad8ccb6c2e19"
+          }
+        },
+        {
+          "client_id": "736109360897-a6k4b5ju08ubseqsglp2t0bmopeh9b4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuroYP4hEWy6S_XW0QOhEvBWcSQw6RQDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736109360897-a6k4b5ju08ubseqsglp2t0bmopeh9b4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
